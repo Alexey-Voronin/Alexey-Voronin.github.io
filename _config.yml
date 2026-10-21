@@ -118,7 +118,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: AVLogs # blog_name will be displayed in your blog page
-blog_description: CV, News, and research
+blog_description: News and research
 permalink: /blog/:year/:title/
 
 # Pagination

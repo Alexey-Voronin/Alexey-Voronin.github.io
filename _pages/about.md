@@ -17,17 +17,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher in the Computational Mathematics Department at
-Sandia National Laboratories, specializing in scalable numerical solvers for
-complex engineering and physics problems. My expertise is in developing
-multilevel methods that enhance the performance of algorithms solving linear and
-nonlinear partial differential equations. These techniques have broad
-applications in fields like graph partitioning, optimization, and machine
-learning.
+I am a Senior Member of Technical Staff in the Computational Mathematics
+Department at Sandia National Laboratories. I develop nonlinear and linear
+solvers and preconditioners for optimal control of Maxwell's equations (see
+[MrHyDE](https://github.com/sandialabs/MrHyDE)). In scientific machine learning,
+I use classical methods such as spectral analysis and domain decomposition to
+make neural network training faster, cheaper, and more accurate.
 
 I earned my PhD in Computer Science from the University of Illinois at
-Urbana-Champaign. With over eight years of experience in scientific computing
-and numerical modeling, my career also includes three years as a
-software engineer at Lawrence Livermore National Laboratory. There, I enhanced
-multiphysics simulation codes by applying my knowledge in GPU
-computing, modern HPC architectures, multigrid methods, and PDEs.
+Urbana-Champaign. Before that, I spent three years as a software engineer at
+Lawrence Livermore National Laboratory, working on multiphysics simulation codes
+for GPUs and modern HPC architectures.
+
+The best way to keep up with my work is through
+[Google Scholar](https://scholar.google.com/citations?user=NPUi7bkAAAAJ) and
+[GitHub](https://github.com/Alexey-Voronin).
