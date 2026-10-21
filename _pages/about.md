@@ -17,10 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Senior Member of Technical Staff in the Computational Mathematics
-Department at Sandia National Laboratories. I develop nonlinear and linear
-solvers and preconditioners for optimal control of Maxwell's equations (see
-[MrHyDE](https://github.com/sandialabs/MrHyDE)). In scientific machine learning,
+I am a Senior Member of Technical Staff in the Center for Computing Research (CCR) 
+at Sandia National Laboratories. I develop nonlinear and linear
+solvers and preconditioners for optimal control of Maxwell's equations.
+In scientific machine learning,
 I use classical methods such as spectral analysis and domain decomposition to
 make neural network training faster, cheaper, and more accurate.
 
